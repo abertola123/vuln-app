@@ -77,3 +77,4 @@ jobs:
             --all-projects \
             --org=${{ secrets.SNYK_ORG_ID }} \
             --severity-threshold=high
+
